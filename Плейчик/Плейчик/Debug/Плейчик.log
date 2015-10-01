@@ -1,0 +1,52 @@
+﻿Построение начато 03.06.2014 0:18:20.
+     1>Проект "D:\Google Drive\KPI\Programming\OOP\C++\Курсова\Плейчик\Плейчик\Плейчик.vcxproj" в узле 2 (целевые объекты Build).
+     1>ClCompile:
+         D:\Програми\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\\" /AI"C:\Program Files (x86)\Windows Kits\8.0\References\CommonConfiguration\Neutral" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\Facades\\" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\Плейчик.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\mscorlib.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Xml.dll" /analyze- /errorReport:prompt /clr:nostdlib stdafx.cpp
+         stdafx.cpp
+         D:\Програми\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\\" /AI"C:\Program Files (x86)\Windows Kits\8.0\References\CommonConfiguration\Neutral" /AI"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\Facades\\" /Zi /clr /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _UNICODE /D UNICODE /EHa /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\Плейчик.pch" /Fo"Debug\\" /Fd"Debug\vc110.pdb" /TP /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\mscorlib.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Data.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Drawing.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Windows.Forms.dll" /FU"C:\Program Files (x86)\Reference Assemblies\Microsoft\Framework\.NETFramework\v4.5\System.Xml.dll" /analyze- /errorReport:prompt /clr:nostdlib About.cpp Alarm.cpp AssemblyInfo.cpp Playl.cpp Song.cpp help.cpp "Плейчик.cpp"
+         About.cpp
+         Alarm.cpp
+     1>D:\Програми\Microsoft Visual Studio 12.0\VC\include\vadefs.h(81): warning C4392: void __va_start(va_list *): неправильный набор аргументов для подставляемой функции; требуется аргументов: "5"
+     1>D:\Програми\Microsoft Visual Studio 12.0\VC\include\vadefs.h(82): warning C4392: void *__va_arg(va_list *): неправильный набор аргументов для подставляемой функции; требуется аргументов: "4"
+         AssemblyInfo.cpp
+         Playl.cpp
+         Song.cpp
+     1>D:\Програми\Microsoft Visual Studio 12.0\VC\include\vadefs.h(81): warning C4392: void __va_start(va_list *): неправильный набор аргументов для подставляемой функции; требуется аргументов: "5"
+     1>D:\Програми\Microsoft Visual Studio 12.0\VC\include\vadefs.h(82): warning C4392: void *__va_arg(va_list *): неправильный набор аргументов для подставляемой функции; требуется аргументов: "4"
+         help.cpp
+         Плейчик.cpp
+     1>D:\Програми\Microsoft Visual Studio 12.0\VC\include\vadefs.h(81): warning C4392: void __va_start(va_list *): неправильный набор аргументов для подставляемой функции; требуется аргументов: "5"
+     1>D:\Програми\Microsoft Visual Studio 12.0\VC\include\vadefs.h(82): warning C4392: void *__va_arg(va_list *): неправильный набор аргументов для подставляемой функции; требуется аргументов: "4"
+     1>d:\google drive\kpi\programming\oop\c++\курсова\плейчик\плейчик\Form1.h(550): warning C4101: e: неиспользованная локальная переменная
+     1>d:\google drive\kpi\programming\oop\c++\курсова\плейчик\плейчик\Form1.h(606): warning C4101: e: неиспользованная локальная переменная
+     1>d:\google drive\kpi\programming\oop\c++\курсова\плейчик\плейчик\Form1.h(634): warning C4244: инициализация: преобразование "QWORD" в "float", возможна потеря данных
+     1>d:\google drive\kpi\programming\oop\c++\курсова\плейчик\плейчик\Form1.h(641): warning C4244: аргумент: преобразование "float" в "QWORD", возможна потеря данных
+     1>d:\google drive\kpi\programming\oop\c++\курсова\плейчик\плейчик\Form1.h(694): warning C4244: =: преобразование "QWORD" в "double", возможна потеря данных
+     1>d:\google drive\kpi\programming\oop\c++\курсова\плейчик\плейчик\Form1.h(695): warning C4244: =: преобразование "QWORD" в "double", возможна потеря данных
+     1>d:\google drive\kpi\programming\oop\c++\курсова\плейчик\плейчик\Form1.h(696): warning C4244: аргумент: преобразование "double" в "QWORD", возможна потеря данных
+     1>d:\google drive\kpi\programming\oop\c++\курсова\плейчик\плейчик\Form1.h(696): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+     1>d:\google drive\kpi\programming\oop\c++\курсова\плейчик\плейчик\Form1.h(697): warning C4244: аргумент: преобразование "double" в "QWORD", возможна потеря данных
+     1>d:\google drive\kpi\programming\oop\c++\курсова\плейчик\плейчик\Form1.h(697): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+     1>d:\google drive\kpi\programming\oop\c++\курсова\плейчик\плейчик\Form1.h(732): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+     1>d:\google drive\kpi\programming\oop\c++\курсова\плейчик\плейчик\Form1.h(835): warning C4244: инициализация: преобразование "__int64" в "int", возможна потеря данных
+         Создание кода...
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.0\bin\x86\rc.exe /D _UNICODE /D UNICODE /l"0x0409" /nologo /fo"Debug\app.res" app.rc 
+       Link:
+         D:\Програми\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Google Drive\KPI\Programming\OOP\C++\Курсова\Плейчик\Debug\Плейчик.exe" /INCREMENTAL /NOLOGO /ASSEMBLYRESOURCE:"Debug\Плейчик.About.resources" /ASSEMBLYRESOURCE:"Debug\Плейчик.Alarm.resources" /ASSEMBLYRESOURCE:"Debug\Плейчик.Form1.resources" /ASSEMBLYRESOURCE:"Debug\Плейчик.help.resources" /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Google Drive\KPI\Programming\OOP\C++\Курсова\Плейчик\Debug\Плейчик.pdb" /ASSEMBLYDEBUG /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 Debug\app.res
+         Debug\About.obj
+         Debug\Alarm.obj
+         Debug\AssemblyInfo.obj
+         Debug\help.obj
+         Debug\Playl.obj
+         Debug\Song.obj
+         Debug\stdafx.obj
+         "Debug\Плейчик.obj"
+         "Debug\.NETFramework,Version=v4.5.AssemblyAttributes.obj"
+     1>.NETFramework,Version=v4.5.AssemblyAttributes.obj : warning LNK4099: "vc110.pdb" PDB эх эрщфхэ ё ".NETFramework,Version=v4.5.AssemblyAttributes.obj" шыш эр "D:\Google Drive\KPI\Programming\OOP\C++\╩єЁёютр\╧ыхщўшъ\Debug\vc110.pdb"; ъюьяюэютър юс·хъЄр т√яюыэ хЄё  ъръ яЁш юЄёєЄёЄтшш юЄырфюўэ√ї фрээ√ї
+         Плейчик.vcxproj -> D:\Google Drive\KPI\Programming\OOP\C++\Курсова\Плейчик\Debug\Плейчик.exe
+     1>Построение проекта "D:\Google Drive\KPI\Programming\OOP\C++\Курсова\Плейчик\Плейчик\Плейчик.vcxproj" завершено (целевые объекты Build).
+
+Построение успешно завершено.
+
+Затраченное время: 00:00:21.79

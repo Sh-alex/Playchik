@@ -1,0 +1,19 @@
+﻿Сборка начата 27.09.2015 17:21:41.
+     1>Проект "D:\Google Диск\KPI\1 курс\2 семестр\Programming\OOP\C++\Курсова\Плейчик\Плейчик\Плейчик.vcxproj" в узле 2 (целевые объекты Build).
+     1>Link:
+         D:\Programs\Visual Studio Ultimate 2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Google Диск\KPI\1 курс\2 семестр\Programming\OOP\C++\Курсова\Плейчик\Release\Плейчик.exe" /INCREMENTAL:NO /NOLOGO /ASSEMBLYRESOURCE:"Release\Плейчик.About.resources" /ASSEMBLYRESOURCE:"Release\Плейчик.Alarm.resources" /ASSEMBLYRESOURCE:"Release\Плейчик.Form1.resources" /ASSEMBLYRESOURCE:"Release\Плейчик.help.resources" /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Google Диск\KPI\1 курс\2 семестр\Programming\OOP\C++\Курсова\Плейчик\Release\Плейчик.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"main" /DYNAMICBASE /FIXED:NO /NXCOMPAT /MACHINE:X86 /SAFESEH /SAFESEH:NO Release\app.res
+         Release\About.obj
+         Release\Alarm.obj
+         Release\AssemblyInfo.obj
+         Release\help.obj
+         Release\Playl.obj
+         Release\Song.obj
+         Release\stdafx.obj
+         "Release\Плейчик.obj"
+         "Release\.NETFramework,Version=v4.5.AssemblyAttributes.obj"
+         Плейчик.vcxproj -> D:\Google Диск\KPI\1 курс\2 семестр\Programming\OOP\C++\Курсова\Плейчик\Release\Плейчик.exe
+     1>Сборка проекта "D:\Google Диск\KPI\1 курс\2 семестр\Programming\OOP\C++\Курсова\Плейчик\Плейчик\Плейчик.vcxproj" завершена (целевые объекты Build).
+
+Сборка успешно завершена.
+
+Затраченное время: 00:00:00.73
